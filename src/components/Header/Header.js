@@ -9,7 +9,6 @@ const Header = ({ logo }) => (
       Edit <code>src/App.js</code> and save to reload.
     </p>
     <Link url="https://reactjs.org" title="Learn React" />
-    Learn React
   </header>
 );
 
